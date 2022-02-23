@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Obedience to magistrates recommended in a discourse upon Titus 3:1 preached September the ninth, 1683 by J.C.</title>
+            <author>Clapham, Jonathan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33227</idno>
+            <idno type="STC">Wing C4408</idno>
+            <idno type="STC">ESTC R29609</idno>
+            <idno type="EEBO-CITATION">11179417</idno>
+            <idno type="OCLC">ocm 11179417</idno>
+            <idno type="VID">46565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Obedience to magistrates recommended in a discourse upon Titus 3:1 preached September the ninth, 1683 by J.C.</title>
+                  <author>Clapham, Jonathan.</author>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S. for Edward Giles ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Titus III, 1 --  Criticism, interpretation, etc.</term>
+               <term>Government, Resistance to --  Religious aspects.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46565:1" rendition="simple:additions"/>
+            <p>OBEDIENCE TO MAGISTRATES RECOMMENDED, IN A DISCOURSE Upon TITUS 3.1.</p>
+            <p>Preached <hi>September</hi> the Ninth, 1683.</p>
+            <q>Put them in mind to be ſubject to Principalities and Powers, and to obey Magiſtrates.</q>
+            <p>By <hi>J. C.</hi> Rector of <hi>W. N.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. S.</hi> for <hi>Edward Giles,</hi> Bookſeller in <hi>Norwich,</hi> near the Market-place. 1683.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:46565:2"/>
+            <pb facs="tcp:46565:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>CHriſtian Obedience</hi> to <hi>Ma<g ref="char:EOLhyphen"/>giſtrates</hi> is a Duty ſo neceſſary both to the Publick Peace and Welfare of Church and State, and to the Private Good of particular Perſons and Places, that the <hi>Publiſher</hi> judges he needs not much to apologize for the ſending forth theſe Papers that per<g ref="char:EOLhyphen"/>ſwade thereunto. The Diſcourſe is ſhort, plain, and intelligible, and ſo more adapted to the uſe of thoſe that may have need of it. There is nothing in it that may exaſperate the Spirits of any,
+<pb facs="tcp:46565:3"/>but what may be uſeful to the Informa<g ref="char:EOLhyphen"/>tion of every Sincere Chriſtian, who is willing to know and practice his Duty. The <hi>Author</hi> is no <hi>Court Paraſite,</hi> ſuiting his <hi>Principles</hi> to <hi>worldly Intereſt,</hi> that he may get <hi>Prefer<g ref="char:EOLhyphen"/>ment</hi> by them; but deſiring to go forth <hi>Incognito,</hi> he covets no other Happi<g ref="char:EOLhyphen"/>neſs on Earth, but to ſerve God faith<g ref="char:EOLhyphen"/>fully, that little time he hath to live, in an obſcure Country-Town.</p>
+            <p>
+               <hi>Reader,</hi> It concerns thee, if thou wouldſt approve thy ſelf a ſincere Chri<g ref="char:EOLhyphen"/>ſtian, to conſider how far thou art to comply with this Duty, which is one of the main Commands of the Goſpel. Thou canſt not be Chriſt's Diſciple, if thou haſt not reſpect to all his Commandments. Read, and conſider, and the Lord give thee underſtanding in all things.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:46565:3" rendition="simple:additions"/>
+            <head>CHRISTIAN OBEDIENCE RECOMMENDED, From TITUS III. 1.</head>
+            <epigraph>
+               <q>Put them in mind to be ſubject to Principalities, and Powers, and to obey Magiſtrates—</q>
+            </epigraph>
+            <p>THis Epiſtle was written by St. <hi>Paul</hi> to <hi>Titus,</hi> left by him at <hi>Crete</hi> for the ſet<g ref="char:EOLhyphen"/>ling the Affairs of the Churches there, to direct him in his Office, and learn him how to behave himſelf in the Church, which is the <hi>Houſe of the Living God,</hi> as the Apoſtles Phraſe
+<pb n="2" facs="tcp:46565:4"/>is, 1 <hi>Tim.</hi> 3.15. as that Epiſtle was ſent alſo to <hi>Timothy</hi> at <hi>Epheſus</hi> upon the ſame account. In the firſt Chapter of this Epiſtle he gives Directions to <hi>Titus</hi> about the Ordination of El<g ref="char:EOLhyphen"/>ders or Presbyters in the Churches, (called in the <hi>French, Preſtres,</hi> and by us <hi>Prieſts;</hi> Names de<g ref="char:EOLhyphen"/>rived from the <hi>Greek</hi> Word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.) He ſhews what Qualifications they muſt have, and orders the ſtopping the Mouths of Falſe Tea<g ref="char:EOLhyphen"/>chers. In the ſecond Chapter, he gives Di<g ref="char:EOLhyphen"/>rections what Duties are to be preached to ſeveral ſorts of Perſons, to aged Men and Women, to young Men and Women, to Ser<g ref="char:EOLhyphen"/>vants, <hi>&amp;c.</hi> In the third Chapter he directs the teaching of ſome other Duties, as Subjection and Obedience to Rulers and Magiſtrates, and to do all good Works: <hi>Put them in mind to be ſubject to Principalities and Powers, to obey Magi<g ref="char:EOLhyphen"/>ſtrates, and to be ready to every good Work.</hi> That which I ſhall make the Subject of my Diſcourſe from the Text, is this Doctrinal Propoſition:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>
+               </label> 
+               <hi>That Miniſters are to mind their People to be ſubject to Principalities and Powers, and to obey Magiſtrates.</hi>
+            </p>
+            <p>This is a Precept not onely ſitted for that
+<pb n="3" facs="tcp:46565:4" rendition="simple:additions"/>time, but neceſſary for all Ages, therefore left here upon Record: <hi>Put them in mind, &amp;c.</hi>
+            </p>
+            <p>The two great Apoſtles, St. <hi>Paul</hi> and St. <hi>Pe<g ref="char:EOLhyphen"/>ter,</hi> inſiſt much upon it. St. <hi>Paul</hi> urges it, <hi>Rom.</hi> 13. more fully, <hi>Let every ſoul be ſubject to the higher Powers; for there's no Power but of God, the Powers that be, are ordained of God:</hi> and he ur<g ref="char:EOLhyphen"/>ges it by many other Reaſons in the following Verſes. And St. <hi>Peter,</hi> 1 Ep. 2.13. <hi>Submit your ſelves to every Ordinance of Man for the Lords ſake, whether to the King as Supreme, or unto Governours ſent by him; for ſo is the will of God, &amp;c.</hi>
+            </p>
+            <p>For the clearing the Propoſition, I ſhall ſhew, 1. What is meant by <hi>Principalities, Powers,</hi> and <hi>Magistrates.</hi> 2. What Subjection and Obe<g ref="char:EOLhyphen"/>dience is to be yielded to them. 3. Why Sub<g ref="char:EOLhyphen"/>jection and Obedience is to be given to them. 4. In what manner it is to be done. 5. Why Miniſters ſhould put the People in mind of it. Then, 6. Apply the Diſcourſe practically.</p>
+            <div n="1" type="part">
+               <head>
+                  <hi>I.</hi> What is meant by Principalities, and Powers, and Magiſtrates, to whom we are to be ſubject, and yield Obedience?</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> The Scriptures uſe many Words to ſet them forth by: Sometimes we have the Word
+<pb n="4" facs="tcp:46565:5"/>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> uſed, as in <hi>Peter</hi> and <hi>Jude,</hi> ſignifying the Dominion and Authority in Rulers to make Laws, and eſtabliſh them by their Sanction: Sometimes we have the Word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as in the Text, to ſhew, that Rulers derive their Power from God originally, and are by him immedi<g ref="char:EOLhyphen"/>ately endued therewith: Sometimes they are called <hi>Dignities,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>Glories,</hi> as in <hi>Jude,</hi> be<g ref="char:EOLhyphen"/>cauſe God hath given them great Glory among Men; as 'tis ſaid of <hi>Nebuchadnezzar, God gave him a Kingdom, and Majeſty, and great Glory:</hi> and there is a lawful Splendour and Pomp they may bear, for the maintaining their Honour in the Hearts of the People: Sometimes <hi>Powers,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, becauſe of the great Power and Strength <hi>(vis naturalis)</hi> God puts into their Hands, to ſup<g ref="char:EOLhyphen"/>port their Government, and keep all in Obedi<g ref="char:EOLhyphen"/>ence: Sometimes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as in the Text, ren<g ref="char:EOLhyphen"/>dred more properly <hi>Authority</hi> than <hi>Power, (vis moralis)</hi> becauſe they have Authority to make Laws, and govern their Subjects by them: Sometimes <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Eminency,</hi> heighth of Place above others, as 1 <hi>Tim.</hi> 2.2. <hi>Pray for Kings, and all that are in Authority,</hi> or, as in the Margin, <hi>in Eminency.</hi> There are other Words uſed in Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="5" facs="tcp:46565:5" rendition="simple:additions"/>but I ſhall not name all; you may under<g ref="char:EOLhyphen"/>ſtand by this who are meant by <hi>Principalities, Powers, and Magiſtrates, viz.</hi> Thoſe that are in Supreme Rule and Authority over a People, together with the Subordinate Magiſtrates un<g ref="char:EOLhyphen"/>der them; for I ſhall include both, as St. <hi>Peter</hi> teaches me, 1 Pet. 2.13, 14. <hi>Both the King that is Supreme, and Governours under him.</hi> To ſuch we are, by Divine Command, to be ſubject and obedient, if they be our Lawful Rulers, yea, though they ſhould be Heathens or Perſe<g ref="char:EOLhyphen"/>cutors, (as they were at this time when the Scriptures were written); yet we are to give them Obedience in all things not contrary to the Laws of God and the Land; and to be ſubject, ſo as not to riſe up in Rebellion againſt them, even when they command contrary thereunto. Which leads me to the ſecond thing, <hi>viz.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>II.</hi> What Subjection and Obedience is to be yielded to them that be in place of Government and Authority over us.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Here are two Words in the Text I muſt explain; <hi>Be ſubject to them, Obey them.</hi>
+               </p>
+               <p n="1">1. <hi>Be ſubject to them,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: The Word ſignifies, we ſhould keep our ſelves in an order<g ref="char:EOLhyphen"/>ly
+<pb n="6" facs="tcp:46565:6"/>ſubjection to them, in that place and ſtation God hath ſet us, not leaving our place of ſub<g ref="char:EOLhyphen"/>jection, (as Soldiers who are to keep their Ranks and Files.) It's oppoſed to Mutiny, Sedition, Diſorder, and Confuſion, or whatever tends to the Diſſolution of Government. It implies ſeveral things in it. 1. An inward Reverence of Heart to them; to eſteem them highly, be<g ref="char:EOLhyphen"/>cauſe of that Authority and Honour God hath conferr'd on them, as his Deputies and Vicege<g ref="char:EOLhyphen"/>rents, if not for their perſonal Worth, yet for the Sovereignty God hath committed to them, to give <hi>honour to whom honour is due, Rom.</hi> 13. to bear an inward Reverence to them, becauſe of God's Image on them, not deſpiſing or con<g ref="char:EOLhyphen"/>temning them for any thing we judge amiſs in them. 2. Reſpectful Language of the Tongue toward them, not ſpeaking any reproachful Words of them, tending to the prejudice of their Government; but to cover their Weakneſſes, (as <hi>Shem</hi> and <hi>Japhet</hi> did their Father's Naked<g ref="char:EOLhyphen"/>neſs) conſidering what ſtrong Temptations their high Places expoſe them to. 3. The ſubmit<g ref="char:EOLhyphen"/>ting our whole Man to the obedience of their legal Commands; to ſerve them in Peace and
+<pb n="7" facs="tcp:46565:6" rendition="simple:additions"/>War, according as Duty obliges us; to be <hi>ready to every good Work,</hi> as the Apoſtle adds in the end of the Text; to do all Duties the Law obliges to; yea, ſubmitting our Necks to the Yoke, (as the Word may ſignifie) tho it ſeem burdenſom to us; not diſobeying in any lawful thing, nor riſing up in Rebellion againſt them, if they ſhould command any thing either unjuſt or il<g ref="char:EOLhyphen"/>legal. 4. And that our Eſtates be ſubject to them, willingly paying Tribute and Cuſtom ac<g ref="char:EOLhyphen"/>cording to the Laws, <hi>Rom.</hi> 13.7. and as Chri<g ref="char:EOLhyphen"/>ſtians, paying them ſpiritual Tribute, <hi>offering up prayers and thankſgivings to God for them,</hi> 1 Tim. 2.1. <hi>Chryſoſtom</hi> notes, this Word comprehends all Duties and Services that Subjects owe to their Rulers and Governours. Thus <hi>be ſubject to them, ready to every good work.</hi>
+               </p>
+               <p n="2">2. The ſecond Word the Text uſes is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>obey them.</hi> Criticks obſerve, it ſignifies a free and voluntary Obedience to them, without ſimulation or coaction; that we perform all the Duties of Subjects in a due manner, not being falſe to them, but faithful Subjects; not com<g ref="char:EOLhyphen"/>pelled by fear and terrour, but moved out of Conſcience to God's Command, who hath or<g ref="char:EOLhyphen"/>dained
+<pb n="8" facs="tcp:46565:7"/>Magiſtracy among Men, becauſe it's his Ordinance, being <hi>ſubject not for wrath, but for conſcience ſake,</hi> Rom. 13.5.</p>
+            </div>
+            <div n="3" type="part">
+               <head>
+                  <hi>III.</hi> Why muſt Subjection and Obedience be thus yielded to Rulers and Magiſtrates?</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> For theſe Reaſons.</p>
+               <p n="1">1. Becauſe Magiſtracy is the Ordinance of God, it's of Divine Inſtitution. This Reaſon the Apoſtle uſes, <hi>Rom.</hi> 13.1. <hi>Let every ſoul be ſubject to the higher Powers, becauſe there's no Power but of God, the Powers that be, are ordained of God; therefore we muſt needs be ſubject for conſcience ſake:</hi> Prov. 8.15. <hi>By me Kings reign, and Princes decree Juſtice; Judges, and all the Rulers of the Earth,</hi> &amp;c. They are God's Deputies and Vicegerents; therefore the Name of <hi>Gods</hi> is given them in Scripture, (<hi>I ſaid ye are Gods, but ye ſhall die like Men,</hi> ſaith the Pſalmiſt.) God hath delegated a part of his Power to them, even in the Church, which is governed by God's Word and Spirit; he is pleaſed to ſet Governours, 1 <hi>Cor.</hi> 12.28. therefore much more in the State, where there is a greater neceſſity of it: So that we muſt needs be ſubject to them, and obey them, becauſe of God's Ordinance. Not to do ſo, is to fight
+<pb n="9" facs="tcp:46565:7" rendition="simple:additions"/>againſt God, <hi>and ſuch as reſiſt ſhall bring damna<g ref="char:EOLhyphen"/>tion to themſelves,</hi> Rom. 13.2.</p>
+               <p n="2">2. They are ordained of God for the com<g ref="char:EOLhyphen"/>mon Good of Mankind, and therefore we have greateſt reaſon to obey them, <hi>Rom.</hi> 13.4. <hi>He is the Miniſter of God unto thee for good,</hi> ſpeaking of the Supreme Ruler or Magiſtrate, and bid<g ref="char:EOLhyphen"/>ding us to obey him on this account. There is a fourfold Good that we receive by Magiſtracy, Natural, Moral, Civil, and Spiritual.</p>
+               <p n="1">1. Natural Good. Thro' Government our very Lives are preſerved in ſafety, elſe <hi>homo ho<g ref="char:EOLhyphen"/>mini lupus,</hi> one Man would be a Wolf and Lion to another: What Violences, Murders, and Bloodſhed would be committed amongſt Men!</p>
+               <p n="2">2. Moral Good. That Vice and Wicked<g ref="char:EOLhyphen"/>neſs hath any Reſtraint, and Vertue and Good<g ref="char:EOLhyphen"/>neſs any Encouragement, is from Laws and Go<g ref="char:EOLhyphen"/>vernment. How vile would many Men be that fear not God, if no Laws of Men reſtrained them? When there was <hi>no King in Iſrael, every man did what was right in his own eyes,</hi> and all Wick<g ref="char:EOLhyphen"/>edneſs abounded. <hi>Rom.</hi> 13.3. the Apoſtle ſaith, <hi>Rulers are a terrour to evil works.</hi> In the worſt Government there are ſome Laws to re<g ref="char:EOLhyphen"/>ſtrain
+<pb n="10" facs="tcp:46565:8" rendition="simple:additions"/>it, therefore it's a great Mercy to Man<g ref="char:EOLhyphen"/>kind.</p>
+               <p n="3">3. Civil Good. That our Poſſeſſions and Rights are preſerved, we owe to Government; elſe the ſtronger would prey on the weaker, and every place would be full of Thieves and Rob<g ref="char:EOLhyphen"/>bers; Propriety could not be preſerved.</p>
+               <p n="4">4. Spiritual Good. Religion is preſerved in the World hereby, and the Worſhip of God maintained. The Magiſtrate is Keeper of both Tables. Even by the Light of Nature <hi>Ariſtotle</hi> taught, the firſt Care of Kings ſhould be about Religion: It's their Duty to maintain the True Religion, and ſuppreſs Idolatry, Blaſphemy, and Contempt of Religion. Theſe Benefits Men reap moſt evidently, when they have good Governours; then they enjoy Peace and Pro<g ref="char:EOLhyphen"/>ſperity, and Religion is in a flouriſhing conditi<g ref="char:EOLhyphen"/>on. And if they have bad Governours, it's God that puniſhes them for their Sins, and makes them Scourges to Men; and they ſhould hum<g ref="char:EOLhyphen"/>ble themſelves for their Sins, and turn to God, and he would ſend them relief. However, bad Government is better than none: Tyranny is better than Anarchy and Confuſion. It's one
+<pb n="11" facs="tcp:46565:8" rendition="simple:additions"/>of the ſaddeſt Curſes to have no Kings nor Go<g ref="char:EOLhyphen"/>vernours: <hi>Hoſ,</hi> 3.4. it's propheſied of <hi>Iſrael</hi> in their deſolate Eſtate, <hi>they ſhould have neither King, nor Prince, nor Sacrifice, &amp;c.</hi> We read in the ſtory of the <hi>Levite</hi>'s Concubine, what wick<g ref="char:EOLhyphen"/>edneſs was committed in <hi>Iſrael</hi> when there was no King. What a Den of Wild Beaſts would the World be without Government! None could live in peace, every one would prey upon his Neighbour. <hi>Nebuchadnezzar,</hi> tho a Tyran<g ref="char:EOLhyphen"/>nous King, is ſet forth in <hi>Daniel</hi> as a <hi>great Tree, under whoſe Branches the Fowls and Beaſts had ſhel<g ref="char:EOLhyphen"/>ter. Saul,</hi> tho a bad King, <hi>clothed the Daughters of Jeruſalem in Scarlet. Government is as neceſſary to Mankind,</hi> ſaith one, <hi>as the Sun, Air, Bread, Wa<g ref="char:EOLhyphen"/>ter, &amp;c.</hi> And therefore being for Common Good, be ſubject unto them.</p>
+               <p n="3">3. From that particular Good every one will reap by ſubjecting himſelf to Govern<g ref="char:EOLhyphen"/>ment, and Evil by reſiſting it. It is to be ob<g ref="char:EOLhyphen"/>ſerved, That the Fifth Commandment, <hi>Honour thy Father and thy Mother, &amp;c.</hi> is called by the Apoſtle, <hi>Eph.</hi> 6. <hi>the firſt Commandment with promiſe.</hi> It hath the Promiſe of Length of Days and Proſperity annexed to it. Now it's to be un<g ref="char:EOLhyphen"/>derſtood
+<pb n="12" facs="tcp:46565:9" rendition="simple:additions"/>of Political Parents, as well as Natu<g ref="char:EOLhyphen"/>ral; and it implies alſo a threatning of ſome outward Judgment to the Violators of the Command, as ſhortning their Days; they that reſiſt them, ſhall not be long in the Land of the of the Living. It may be obſerved, That the moſt that are recorded in Scripture for reſiſting of Government, had untimely Ends; as <hi>Corah</hi> and his Company, <hi>Abſolom, Sheba, Joab, Shimeah, Adonijah, Zimri, Athaliah, &amp;c.</hi> according to that, <hi>Prov.</hi> 17.11. <hi>An evil man ſeeketh Rebellion, there<g ref="char:EOLhyphen"/>fore a cruel Meſſenger ſhall be ſent unto him.</hi> But that is moſt terrible that the Apoſtle ſpeaks, <hi>Rom.</hi> 13.3. <hi>They that reſiſt, ſhall receive to them<g ref="char:EOLhyphen"/>ſelves damnation;</hi> not onely <hi>temporal puniſhment,</hi> but, if they repent not, <hi>eternal damnation.</hi> God will maintain his own Ordinance, and puniſh the Violators of it. Such do, Giant-like, fight againſt God, and therefore ſhall meet with De<g ref="char:EOLhyphen"/>ſtruction. Thus you ſee what reaſon there is to obey and be ſubject to Rulers and Magi<g ref="char:EOLhyphen"/>ſtrates.</p>
+            </div>
+            <div n="4" type="part">
+               <head>
+                  <hi>IV.</hi> But how, and in what manner muſt we yield Subjection and Obedience to them? <hi>I anſwer,</hi>
+               </head>
+               <p n="1">1. We muſt give it to all in Authority, good
+<pb n="13" facs="tcp:46565:9" rendition="simple:additions"/>and bad; as the Apoſtle ſpeaks of Maſters, 1 <hi>Pet.</hi> 2.18. <hi>Servants muſt be ſubject, not onely to the good and gentle, but alſo to the froward:</hi> ſo muſt we be ſubject to all in Authority, (that be our Lawful Rulers, not Uſurpers) not onely to the good, but to the bad. It's due to the Office pri<g ref="char:EOLhyphen"/>marily, whoever bear it; then to the Perſons placed in it by God. The Apoſtle in the Text ſpeaks of Principalities and Powers in the ab<g ref="char:EOLhyphen"/>ſtract; and when he required Subjection to the Higher Powers, <hi>Rom.</hi> 13. it was at that time when <hi>Caligula, Claudius,</hi> or <hi>Nero</hi> reigned, thoſe Monſters of Men, and cruel Perſecutors; yet, ſaith he, <hi>Let every ſoul be ſubject, &amp;c.</hi> If God ſhould give us the worſt Magiſtrates, we muſt not reſiſt them, but muſt reverence the Powers, and be ſubject to them; and <hi>this is thank-worthy,</hi> 1 <hi>Pet.</hi> 2.16.</p>
+               <p n="2">2. Yet we muſt <hi>obey them onely in the Lord.</hi> As we muſt look on them as ſet in the place of God, ſo muſt we obey them onely in all things agreeable to the Will of God. If they com<g ref="char:EOLhyphen"/>mand things contrary to his Will, then we muſt rather obey God than Man, as the Apoſtle tea<g ref="char:EOLhyphen"/>ches, <hi>Acts</hi> 5.29. The reaſon of it is, Becauſe
+<pb n="14" facs="tcp:46565:10"/>God is the Univerſal and Supreme Sovereign. If an inferiour Officer command any thing con<g ref="char:EOLhyphen"/>trary to the Will of the King and his Laws, we muſt obey the Will of the King before his: So if a King, contrary to God's Will, commands us any thing, we are to obey him that is King of Kings. In ſuch a Caſe the Laws of Men are null <hi>ipſo facto,</hi> as <hi>St. Auſtin</hi> ſpeaks, <hi>There can be no Law of what is not just:</hi> And <hi>Bernard, What Man commands, if God forbid it, it is repealed by the Sovereign Lord by whom Kings reign. Things materi<g ref="char:EOLhyphen"/>ally evil, cannot be juſtly commanded, nor lawfully done.</hi>
+               </p>
+               <p n="3">3. Not for fear of <hi>Wrath</hi> onely, but for <hi>Con<g ref="char:EOLhyphen"/>ſcience ſake, Rom.</hi> 13.5. The fear of Man may often reſtrain from reſiſting, (eſpecially the fear of God, who threatens <hi>damnation);</hi> but Conſcience to God's Command ſhould chiefly make us to obey Magiſtrates in what they com<g ref="char:EOLhyphen"/>mand according to Law: 1 <hi>Pet.</hi> 2.13. <hi>Be ſub<g ref="char:EOLhyphen"/>ject</hi> (ſaith he) <hi>to every Ordinance of Man for the Lord's ſake.</hi> He hath ordained Magiſtracy, and commanded Obedience to it.</p>
+               <p n="4">4. Willingly and heartily, <hi>Eph.</hi> 6.7. <hi>With good will doing ſervice as to the Lord, not to Man:</hi>
+                  <pb n="15" facs="tcp:46565:10" rendition="simple:additions"/>Col. 3.23. <hi>Whatever you do, do it heartily, as to the Lord, not as to Men; and ye ſhall receive of the Lord the Reward of Inheritance: for ye ſerve the Lord Chriſt.</hi> The Apoſtle ſpeaks of Servants doing their Duties to their Maſters; but it's true alſo of Subjects doing their Duties to Magiſtrates: they are to do it <hi>willingly and heartily, as to the Lord.</hi>
+               </p>
+            </div>
+            <div n="5" type="part">
+               <head>
+                  <hi>V.</hi> But why ſhould Miniſters put their People in mind to be thus ſubject to Magiſtrates, and obey them?</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> For theſe Reaſons.</p>
+               <p n="1">1. Becauſe every Duty is to be preſſed by them; they are to make known to them the whole Will of God, even all things neceſſary to Salvation, of which this is one principal Com<g ref="char:EOLhyphen"/>mand, a Branch of the Fifth Commandment, <hi>Honour thy</hi> Political <hi>Father and Mother;</hi> and this Honour cannot be ſhewn them without Subje<g ref="char:EOLhyphen"/>ction and Obedience. Now tho People know this, yet they have need to be <hi>put in remembrance of it,</hi> as the Apoſtle ſpeaks <hi>Jude</hi> 5. they need to have <hi>their pure minds ſtirred up by way of remem<g ref="char:EOLhyphen"/>brance,</hi> 2 <hi>Pet.</hi> 3.1. Known Duties muſt be whetted on us again and again. This is one great End of the Miniſtry, to ſtir up People to
+<pb n="16" facs="tcp:46565:11"/>the Practice of ſuch Duties as they know; their Minds are forgetful, their Affections dull, and they are backward to the practice of many Du<g ref="char:EOLhyphen"/>ties, and therefore have need to have them often urged. It's a fooliſh Cavil ſome have againſt Miniſters preaching the ſame Duties again ſometimes; even the Spirit of Chriſt is pro<g ref="char:EOLhyphen"/>miſed by him, <hi>John</hi> 14. to bring to our remem<g ref="char:EOLhyphen"/>brance what himſelf had before ſpoken.</p>
+               <p n="2">2. The Holy Ghoſt foreſaw, that ſome Chriſtians, under pretence of Religion, would caſt off Subjection to thoſe in Authority; be<g ref="char:EOLhyphen"/>ing made free by Chriſt, they would not be Servants to Men, abuſing their Liberty. The Scriptures foretel it would be ſo with ſome, <hi>Jude</hi> 8. <hi>They deſpiſe Dominion, and ſpeak evil of Dig<g ref="char:EOLhyphen"/>nities:</hi> So 2 <hi>Pet.</hi> 2.10. Both Places ſpeak of ſome that would highly pretend to Religion, and yet be guilty of this Sin; therefore, ſaith he, <hi>Put them in mind to be ſubject, &amp;c.</hi> There's a Spirit in Men ready to <hi>turn the Grace of God into wantonneſs,</hi> under pretence of Religion to caſt off Obedience to Rulers, as the <hi>Anabaptiſts</hi> in <hi>Germany,</hi> and others, have done. Some obſerve, the <hi>Cretians</hi> were a very ſeditious People, and
+<pb n="17" facs="tcp:46565:11" rendition="simple:additions"/>needed this Admonition; therefore the Apoſtle bids, <hi>Put them in mind.</hi>
+               </p>
+               <p n="3">3. Becauſe there ſometimes might be ſtrong Temptations to this Sin; as when evil Gover<g ref="char:EOLhyphen"/>nours ariſe, that rule with an high hand, and oppreſs their Subjects, and deal unjuſtly with them: It's an hard thing then to be ſubject to the froward and cruel, as we are to the gentle and kind; to own the Ordinance of God, when in the hands or evil Men. This ſtrongly tempts a People to reſiſt, as the Burdens of <hi>Rehoboam</hi> made the Ten Tribes to revolt, tho they got nothing by it; for we read not of one good King in that Kingdom of <hi>Iſrael.</hi> To ſubmit to harſh Governours, and evil Rulers, is againſt Fleſh and Blood; nothing but Conſcience to God's Command can make us willingly ſubmit to ſuch a Yoke; therefore <hi>put them in mind to be ſubject, &amp;c.</hi>
+               </p>
+               <p n="4">4. Becauſe of the great Scandal that would come to Religion, and the Name of Chriſt, by reſiſting the Powers of the World, and refuſing to be ſubject to them; therefore <hi>put them in mind, &amp;c.</hi> It hath been an old Cavil againſt Religion and Chriſtians, <hi>They are ſeditious, rebel<g ref="char:EOLhyphen"/>lious,
+<pb n="18" facs="tcp:46565:12"/>and turbulent Perſons:</hi> Thus they have been repreſented in all Ages. We find the <hi>Jews</hi> thus of old accuſed by their Enemies, <hi>They would not obey the King's Laws, and Jeruſalem was a rebellious City;</hi> and by this means the Rebuilding of the City and Temple was hindred. <hi>Daniel</hi> and the Three Children ſuffered under this Notion: St. <hi>Paul</hi> was accuſed as a <hi>turbulent Fellow, and mover of Sedition;</hi> nay, Chriſt himſelf, to be <hi>no Friend of Caeſar,</hi> tho he declared, <hi>his Kingdom was not of this World,</hi> neither medled with Tempo<g ref="char:EOLhyphen"/>ral Kingdoms, but ſought to bring Men to the Kingdom of Heaven. Tho Chriſtianity of it ſelf doth not diſturb Government, but uſes the moſt effectual Means to ſecure it, by teach<g ref="char:EOLhyphen"/>ing it is God's Ordinance, and Men muſt be ſubject to it for Conſcience ſake to God's Com<g ref="char:EOLhyphen"/>mand, and for fear of Damnation, <hi>&amp;c.</hi> yet if Chriſtians, that profeſs it, ſhould not live quiet<g ref="char:EOLhyphen"/>ly, and in due ſubjection and obedience to it, they would be a great ſcandal to it, and hinder the progreſs of it in the World; therefore <hi>put them in mind to be ſubject to Magiſtrates, and to obey them,</hi> that the Name of Chriſt and his Goſpel may not be blaſphemed, but that Chriſtianity
+<pb n="19" facs="tcp:46565:12" rendition="simple:additions"/>may appear aimiable and winning unto all, by teaching all its Profeſſors to live harmleſly and peaceably, <hi>as the Sons of God without rebuke, in the midſt of a crooked Generation.</hi>
+               </p>
+            </div>
+            <div type="application">
+               <p>I come now to Application.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe. </seg>
+                  </label> Let me fulfil my Duty according to the Text, to <hi>put you in mind to be ſubject to Prin<g ref="char:EOLhyphen"/>cipalities and Powers, and to obey Magiſtrates;</hi> to yield them all due ſubjection and obedience. This is a great Chriſtian Duty, enjoyned by the Apoſtle St. <hi>Paul, Rom.</hi> 13.1. and preſſed by him with many Arguments; and alſo by the Apo<g ref="char:EOLhyphen"/>ſtle St. <hi>Peter,</hi> 1 <hi>Pet.</hi> 2.13. And in my Text Miniſters are enjoyned to preach it to their People; <hi>Put them in mind, &amp;c.</hi> It was practiſed by our Lord and Maſter Chriſt himſelf, when he was upon Earth, he was ſubject to the Au<g ref="char:EOLhyphen"/>thority he was under, paid Tribute to <hi>Caeſar,</hi> and ſubmitted to be Judged by his Officers; tho unjuſtly uſed, he reſiſted not, when as <hi>he could have prayed his Father, and he would have ſent him more than twelve legions of Angels</hi> to reſcue him; yet he ſubmitted freely, to leave us an Example. This was practiſed alſo by all his Followers, who made no Inſurrections againſt the Govern<g ref="char:EOLhyphen"/>ments
+<pb n="20" facs="tcp:46565:13"/>where they lived, (as did ſome others) but quietly ſubmitted, either in obeying or ſuf<g ref="char:EOLhyphen"/>fering, tho daily perſecuted, impriſoned, ſtoned, beheaded, burnt, <hi>&amp;c.</hi> even when more than Five thouſand were martyred in the <hi>Roman</hi> Empire for every Day in the Year, except the Firſt of <hi>January</hi> onely, (on which Day they accounted it a piece of Religion not to let any ſuffer): yet they patiently bore and ſuffered all, without making any Reſiſtance againſt their Rulers.</p>
+               <p>Nor can it be ſaid, they wanted Power to make reſiſtance, elſe they would have done it; for they were multiplied ſo greatly, that they filled their Cities, Caſtles, Camps, Palaces, and Towns; ſo as <hi>Tertullian</hi> writes, <hi>If the Chriſtians ſhould depart out, and leave them, they ſhould remain deſolate.</hi> Remarkable is the Story of the <hi>The<g ref="char:EOLhyphen"/>baean</hi> Legion in the days of the Emperour <hi>Maxi<g ref="char:EOLhyphen"/>minus,</hi> conſiſting of Six thouſand ſix hundred and ſixty ſix armed Soldiers, all Chriſtians, under a Chriſtian Captain, who were in the <hi>Savoy,</hi> in a ſtrong Place, where they might have defended themſelves; yet being commanded by the Em<g ref="char:EOLhyphen"/>perour to ſacrifice to his Gods, they refuſed to obey him therein, but made no reſiſtance:
+<pb n="21" facs="tcp:46565:13" rendition="simple:additions"/>Whereupon he being angry, ſent forth his Meſ<g ref="char:EOLhyphen"/>ſengers to put every tenth Man to death; which they willingly yielded to, without any reſi<g ref="char:EOLhyphen"/>ſtance, each ſtriving to have a ſhare in that glo<g ref="char:EOLhyphen"/>rious Death. Then he cauſed a ſecond Decima<g ref="char:EOLhyphen"/>tion or Tything of them, they remaining con<g ref="char:EOLhyphen"/>ſtant in their Faith, which they ſuffered patient<g ref="char:EOLhyphen"/>ly: And laſt he cauſed his Army to fall upon them, and deſtroy them all; which was done, they making not the leaſt reſiſtance, being wil<g ref="char:EOLhyphen"/>ling to exchange this preſent Life for a more glorious.</p>
+               <p>If it ſhould be ſaid, They had no Laws then for their Religion, as we now have, and ſo may ſtand up for our Laws and Birth-rights, and may oppoſe all that invade them: I anſwer, As we have Laws for our Religion and Liber<g ref="char:EOLhyphen"/>ties, ſo we have Laws that forbid our oppoſing Authority, and riſing up againſt them, on any Pretence whatſoever; and making it Treaſon to take up Arms without the King's Commiſ<g ref="char:EOLhyphen"/>ſion; and therefore muſt be content with the Defence of the Laws, and make no Reſiſtance or Rebellion.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> If it be asked, <hi>What Help and Relief
+<pb n="22" facs="tcp:46565:14"/>then hath a People, if Rulers ſhould violate the Laws, and invade Religion and Liberty, contrary to Law?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Our Help muſt then be in God, that made Heaven and Earth, and in his gracious Providence over his Church, who can, when he pleaſes, remove ſuch Rulers, as he did <hi>Julian, Antiochus, Diocleſian,</hi> and our Queen <hi>Mary.</hi> And when a People be humbled for their Sins, re<g ref="char:EOLhyphen"/>pent, and ſeek him with all their Hearts, can reſtore Religion in greater luſtre and glory, as in the Days of <hi>Conſtantine</hi> and Queen <hi>Elizabeth.</hi> Innumerable Examples are to be found in Hi<g ref="char:EOLhyphen"/>ſtories ancient and modern, of God's Providence over his Church, in puniſhing Tyrants, and Per<g ref="char:EOLhyphen"/>ſecutors of the Truth, and relieving his People when oppreſſed unjuſtly; which may encourage ſincere Chriſtians to commend their Caſe to God, without uſing unlawful Means to relieve themſelves. Therefore, at ſuch a time, a People ought onely to repent, and turn to God, and ſeek him with their whole Hearts, and uſe no other Means.</p>
+               <p>And in reference to our ſelves, let it be fur<g ref="char:EOLhyphen"/>ther conſidered, 1. That our Laws have long preſerved our Religion, Rights, and Liberties
+<pb n="23" facs="tcp:46565:14" rendition="simple:additions"/>amongſt us, and we may hope they may do ſo ſtill, unleſs we provoke God by our Sins to take away his Goſpel, and other Mercies, from us. 2. Other violent Ways and Means are likely to do more hurt than good, if it were lawful to take up Arms in vindication of them. It was a truly-Chriſtian Saying of the excellent <hi>Fran. Junius,</hi> in his <hi>Animadverſions</hi> on <hi>Bellarmine</hi>'s Books <hi>de Tranſlatione Imperii, &amp;c. l.</hi> 1. <hi>c.</hi> 2. <hi>That good Men ſhould rather bear any Injuries from their Ma<g ref="char:EOLhyphen"/>giſtrates, tho never ſo grievous, than inveigh againſt them in Word, Writing, or Action, to the diſturbance of Order and Publick Peace.</hi> Let us conſider the ma<g ref="char:EOLhyphen"/>nifold Evils likely to enſue on ſuch Reſiſtance. 1. Civil Wars will follow upon it, and the Con<g ref="char:EOLhyphen"/>ſequences of them will be ſad: What Rapins, Murders, Plunders, and other Miſchiefs, attend this! Our late ſad Experience will inform us ſufficiently herein. 2. Our Government is in danger to be altered, and we cannot expect to find a better Conſtitution: It muſt be the Re<g ref="char:EOLhyphen"/>formation of Mens Hearts and Lives muſt put us into a better Condition, not the Change of Government. 3. Religion is like to ſuffer more hereby, than by Perſecution. In ſuch horrible
+<pb n="24" facs="tcp:46565:15"/>Confuſions of Nations, and treading down of Laws, what Sects, Hereſies, and Diviſions will ariſe, to the ruine of Religion! Whereas <hi>the Blood of the Martyrs hath been the Seed of the Church,</hi> and Sufferings have purified it, and made it more glorious. 4. If ſuch as do riſe up for defence of their Religion and Liberties, ſhall be conquered by their Oppreſſors, they are likely to come under far greater Slavery and Miſery, forfeiting their Eſtates, Lives, Rights, and Pri<g ref="char:EOLhyphen"/>vileges, and perhaps come under Arbitrary Go<g ref="char:EOLhyphen"/>vernment, and abſolute Slavery; and what worſe Condition can be ſuppoſed? Now how uncertain are the Events of War! tho the Mi<g ref="char:EOLhyphen"/>ſeries attending it are moſt certain. It's very ſeldom ſuch Attempts proſper, but moſt com<g ref="char:EOLhyphen"/>monly they bring Ruine to thoſe who engage therein; as may be ſeen at large in the <hi>Homily againſt Rebellion, Part</hi> 4. Which <hi>Homily</hi> deſerves to be wholly read and conſidered by ſuch as are inclined to uſe ſuch unlawful Courſes for reme<g ref="char:EOLhyphen"/>dying Evils.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> If it be objected, <hi>That many Writers, Men of great Name, have pleaded for the Lawfulneſs of Reſiſtance in ſome Caſes.</hi>
+               </p>
+               <pb n="25" facs="tcp:46565:15" rendition="simple:additions"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> They muſt be underſtood, if they write ſoundly, to ſpeak onely of ſuch Places where the Government allows it in caſe of Male-ad<g ref="char:EOLhyphen"/>miniſtration; as in <hi>Germany,</hi> where it was expreſ<g ref="char:EOLhyphen"/>ly covenanted in the Conſtitution of that Go<g ref="char:EOLhyphen"/>vernment, <hi>That the Princes of the Empire might, in caſe of his invading their Rights, defend them againſt the Emperour by War,</hi> ſine nota Rebellionis, (as I remember, the Words are cited out of the <hi>Gol<g ref="char:EOLhyphen"/>den Bull) without any Brand of Rebellion.</hi> Which till <hi>Luther</hi> was ſatisfied in by the Lawyers, he would not conſent to the Confederation at <hi>Smal<g ref="char:EOLhyphen"/>cald.</hi> The like is ſaid concerning the <hi>Nether<g ref="char:EOLhyphen"/>lands,</hi> whoſe Laws acquitted them from the <hi>Spaniſh</hi> Yoke, upon the unjuſt and tyrannical Government of that King and his Miniſters. But this is nothing to our Caſe, whilſt our Laws prohibit ſuch taking up Arms, and make it Treaſon.</p>
+               <p>Laſtly, I add but one thing more; That there muſt be acknowledged at laſt a Supreme Power, ſubordinate to God alone, and not ac<g ref="char:EOLhyphen"/>countable to Men, nor to be reſiſted by them: or elſe all Confuſion and Diſorder would be in the World, and Subverſion of all Government,
+<pb n="26" facs="tcp:46565:16"/>which would make Mankind miſerable. Now this had better be in the Hands of the King, or Chief Ruler, than in the Hands of any other, either the People in general, or of any Party of them. Rulers have uſually more Underſtand<g ref="char:EOLhyphen"/>ing in Government than the People, and more Counſel and Helps; and their Power and Au<g ref="char:EOLhyphen"/>thority is from God, (who is the Original of all Power, <hi>Rom.</hi> 13.1.) not from the People: As the Power of the Husband over the Wife is from God; tho her Conſent be neceſſary to make him her Husband at firſt, yet ſhe conveys not to him the Authority, but it is from the Or<g ref="char:EOLhyphen"/>dinance of God. It is a dangerous Miſtake to affirm, <hi>That all Power is originally in the People, and they may intruſt it to whom they pleaſe, and call their Rulers to account, and take the Forfeiture, and recall the Truſt.</hi> This hath been cleared by other Writers, who might have been cited here. There<g ref="char:EOLhyphen"/>fore it's the ſafeſt for Chriſtians to ſit ſtill and be quiet, to mind their own Duties in their proper Sphere and Station, to ſtudy Peace and Holineſs, and not to meddle with Publick Go<g ref="char:EOLhyphen"/>vernment, but to be ſubject to lawful Magi<g ref="char:EOLhyphen"/>ſtrates and Rulers in all lawful things; and if
+<pb n="27" facs="tcp:46565:16"/>any thing be amiſs, to commit their Caſe to God, and commend the Care of Religion and the Church to his Providence, who is <hi>King of Kings, and Lord of Lords.</hi>
+               </p>
+               <p>Well then, Let me <hi>put you in mind to be ſubject to Principalities and Powers, and to obey Magiſtrates.</hi> This is the Word that God hath put into our Mouths; therefore we muſt warn you of this Duty from him. Thoſe whom God and the Laws have placed in Superiority over us, and he hath put his Power and Authority into their Hands, as his Deputies and Vicegerents, obey them, and be ſubject to them. Let there be a Subjection of the whole Man unto them; of the Heart, to reverence them, eſteem of them, love them, wiſh well to them, <hi>&amp;c.</hi> if not for any Perſonal Excellency in them, yet for their Office ſake, which is of God, and for the Image of his Sovereignty ſtamped on them: Of the Tongue, not ſpeaking of them with reproach<g ref="char:EOLhyphen"/>ful Language, but honouring them as the Fa<g ref="char:EOLhyphen"/>thers of their Country: Of outward Geſtures, by bowing to them, uncovering the Head, and giving all outward Expreſſions of Honour be<g ref="char:EOLhyphen"/>fitting their Dignities: Of the whole Man, by
+<pb n="28" facs="tcp:46565:17"/>giving all due Obedience to their Laws, if not evidently contrary to the Laws of God: Of our Eſtates, by paying Tribute and other Dues to them.</p>
+               <p>Do this not onely to the Good, but alſo to the Bad, inaſmuch as they are the Vicegerents of God; <hi>There's no Power but of God:</hi> The Apo<g ref="char:EOLhyphen"/>ſtle ſpeaks it when ſuch as <hi>Nero</hi> ruled. Do it for <hi>Conſcience ſake</hi> to God's Command, and not onely for fear of <hi>Wrath: Heartily and willingly,</hi> not in ſimulation and hypocriſie: yet <hi>in the Lord,</hi> ſo far as they croſs not God's expreſs Laws and Commandments, or the known Laws of the Land; and where they do ſo, yet make not any rebellious Reſiſtance againſt them.</p>
+               <p>And for this end to make us willingly ſub<g ref="char:EOLhyphen"/>ject, conſider, They are ordained of God, their Office is from him, and their Sovereignty part of his Image: And they are ordained for good unto us, Natural good, Civil Good, Moral good, Spiritual good, (as before was ſhewed:) Life, Peace, Liberty, Eſtate, Religion, are all fenced by Government. What a Condition would the World be in without it? It's better to have the worſt Magiſtrates, than none at all.
+<pb n="29" facs="tcp:46565:17" rendition="simple:additions"/>Beſides, the particular Intereſt of every Man ſhould move him to this Duty. Long Life and Proſperity is promiſed to the keeping this Com<g ref="char:EOLhyphen"/>mandment, to ſuch as honour Political Fathers and Mothers; but Death and Deſtruction will overtake ſuch as diſobey them: <hi>A cruel Meſſen<g ref="char:EOLhyphen"/>ger ſhall be ſent to ſuch as ſeek Rebellion,</hi> ſaith the Wiſe Man: beſides God's immediate Judg<g ref="char:EOLhyphen"/>ments that often befal ſuch, many Inſtances whereof are in our <hi>Homily of Rebellion, Part</hi> 4. and beſides all theſe, eternal Damnation, unleſs a ſpeedy and true Repentance prevent the ſame. Let all therefore learn this Duty of Obedience and Subjection to Princes, and to all that be in Authority.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> But ſome will ſay, <hi>We could in all Civil Matters be ſubject to them, and obey them as readily as any; but in Matters of Religion, how can we do ſo? Our Conſciences can admit of no Ruler or Law<g ref="char:EOLhyphen"/>maker but Chriſt alone, who hath given perfect Dire<g ref="char:EOLhyphen"/>ction for the Worſhip of God.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> It is certain, Magiſtrates and Civil Rulers have ſome Power in Matters of Reli<g ref="char:EOLhyphen"/>gion. 1. The very Light of Nature hath taught it. <hi>Ariſtotle</hi> and <hi>Plato</hi> ſhew, <hi>That the chiefeſt Care
+<pb n="30" facs="tcp:46565:18"/>of Magiſtrates ought to be about the Worſhip of God. Darius</hi> made a Decree, <hi>That Men worſhip the God of</hi> Daniel <hi>onely. Cyrus</hi> made a Decree for the Building of the Temple. The King of <hi>Nini<g ref="char:EOLhyphen"/>veh</hi> ordained a Faſt and ſolemn Prayers to God, and was accepted. 2. The good Kings of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> are commended for their Zeal about the Worſhip and Service of God; not onely <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> but <hi>Jehoſaphat, Hezekiah, Joſiah,</hi> and others: and they ordained ſeveral things about the Prieſts Miniſtration, and Prayers and Praiſes in the Temple. 3. Chriſtian Kings and Empe<g ref="char:EOLhyphen"/>rours have been commended for their Care of Religion, as <hi>Conſtantine, Theodoſius, Juſtinian, &amp;c.</hi> And it's propheſied, <hi>That in Goſpel-times Kings ſhould be Nurſing-Fathers, and Queens Nurſing-Mo<g ref="char:EOLhyphen"/>thers to the Church.</hi> This is a Truth acknowledg<g ref="char:EOLhyphen"/>ed by all Chriſtians generally; and the contrary Opinion of the <hi>Donatiſts,</hi> and ſuch like, con<g ref="char:EOLhyphen"/>demned, who ſaid, <hi>Quid Imperatori cum Eccleſiis? What hath the Emperour to do with the Churches?</hi>
+               </p>
+               <p>We do not affirm, They can make a new Re<g ref="char:EOLhyphen"/>ligion, coin new Articles of Faith, or ſet up a new Worſhip for Subſtance, or ordain any thing contrary to the Word of God; but they may
+<pb n="31" facs="tcp:46565:18" rendition="simple:additions"/>order many External things about Religion, tending to the Solemnity, Order, and Decency of it, according to the general Rules laid down in the Scriptures; and all good Chriſtians ſhould obey them therein.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> 
+                  <hi>But many ſinful things are now enjoyned, or at least doubtful; and how can we obey them therein?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> If it be certain that any thing enjoyn<g ref="char:EOLhyphen"/>ed by them be ſinful, herein we are to follow the Apoſtle's Counſel, <hi>Acts</hi> 5.29. <hi>to obey God be<g ref="char:EOLhyphen"/>fore Men.</hi> We are not to obey any Idolatrous Edicts, nor embrace any falſe Doctrine or Wor<g ref="char:EOLhyphen"/>ſhip. But here we muſt take heed, <hi>we call not good evil, and evil good.</hi> It is a raſh Charge to ſay, any ſuch thing is enjoyned us, that is cer<g ref="char:EOLhyphen"/>tainly evil, when ſo many wiſe and pious Men, both in our own and other Nations, ſee no ſuch thing: And there is nothing amongſt us, but hath been found in the beſt and pureſt Church<g ref="char:EOLhyphen"/>es ever ſince the Apoſtles days. Little do ſuch, who ſpeak ſo, underſtand or conſider the State of the Chriſtian Church throughout the World. A good Chriſtian will be tender to brand Magi<g ref="char:EOLhyphen"/>ſtrates with ſuch an Accuſation, yea the whole Catholick Church, but rather ſuſpect his own Judgment.</p>
+               <pb n="32" facs="tcp:46565:19"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Obj. </seg>
+                  </label> 
+                  <hi>But at leaſt many things now commanded are doubtful to us, and how can we then obey them?</hi> What<g ref="char:EOLhyphen"/>ever is not of Faith, is Sin; <hi>if we do any thing doubtingly, we are condemned, God will not approve of us. This makes ſome good Men afraid.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> but here the ſincere Chriſtian muſt needs have Doubts on both ſides; for he muſt ſcruple the not obeying Magiſtrates, (becauſe it is a Duty expreſly commanded by God in things not ſinful) as well as ſcruple to obey them in ſuch things wherein he hath ſome little Doubts about the Lawfulneſs of them: There<g ref="char:EOLhyphen"/>fore he muſt not reſt in this condition, but,</p>
+               <p n="1">1. He muſt ſeek out for Satisfaction about his Doubts; he muſt indifferently hear, and read, and conſider what is ſaid on both ſides; lay by all Prejudice and Partiality, which blind the Mind; miſtruſt his own Judgment, and take Advice of ſuch as are more able to judge of ſuch Matters than himſelf. He ought to think, that Magiſtrates have more Counſel and Helps to ſee what is moſt fitting for the general Welfare of the Church, than Private Perſons, who may be led by their particular Intereſts. And let him remember, that nothing is now en<g ref="char:EOLhyphen"/>joyned,
+<pb n="33" facs="tcp:46565:19"/>that is judged ſinful by the greateſt part of the Chriſtian Churches, either in this or for<g ref="char:EOLhyphen"/>mer Ages, when Religion flouriſhed far more than it doth in theſe Times, ſince theſe Con<g ref="char:EOLhyphen"/>troverſies have been ſtarted; therefore great reaſon to ſuſpect and try here.</p>
+               <p n="2">2. Such as upon theſe Scruples ſuſpend Obe<g ref="char:EOLhyphen"/>dience in ſome things, which they ſuſpect to be ſinful, ſhould (and will, if they deal uprightly in this Point) be more forward to obey in all other things that they cannot but ſee to be law<g ref="char:EOLhyphen"/>ful; herein let them ſhew their readineſs to obey. Certainly the Practice of ſuch as make a total Separation from us, is Unchriſtian, and ſo has been judged by all <hi>Nonconformiſts, Inde<g ref="char:EOLhyphen"/>pendents</hi> as well as <hi>Presbyterians,</hi> and the <hi>Browniſts</hi> deeply cenſured by both of them for it. Read the Books of <hi>Bradſhaw, Ball,</hi> and other <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> Miniſters, and the <hi>Apologetical Narration</hi> of the Five <hi>Independent</hi> Miniſters, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. Becauſe there are ſome things that are ſo dark and doubtful to the common ſort of Chriſtians, that they can never fully underſtand them, and ſo ſome Scruples may remain in truly tender and pious Spirits. They are to know,
+<pb n="34" facs="tcp:46565:20"/>it is their Duty in ſuch Caſes to give up them<g ref="char:EOLhyphen"/>ſelves to the Conduct of their Rulers and Guides, and to follow their Directions, till God give them more Light in thoſe things; for they are appointed of God to be Guides and Leaders of the Ignorant and Weak; and tho they are not to follow them blindfold in all things (where they may be certain they miſlead them) yet, in diſputable Points, there is more ſafety in following them than others, tho poſſibly in ſome ſmaller Matters they may err with them. In Civil Matters Caſuiſts agree, That Private Per<g ref="char:EOLhyphen"/>ſons ought to obey their Rulers in ſome things, the Lawfulneſs whereof they may ſcruple: As in Matters of Warfare, they may pay Taxes, or go in Perſon to War, tho not fully ſatisfied of the Lawfulneſs of ſuch War: <hi>Ameſ. Caſ. Conſc. l.</hi> 5. <hi>c.</hi> 33. And in Church matters this is pra<g ref="char:EOLhyphen"/>ctiſed by thoſe that are Diſſenters from us; the ſobereſt of whom, when they have ſome Scru<g ref="char:EOLhyphen"/>ples about an Opinion or Practice, yet give themſelves up to be guided by, and walk peace<g ref="char:EOLhyphen"/>ably with thoſe to whom they aſſociate them<g ref="char:EOLhyphen"/>ſelves, alledging for ſo doing that in <hi>Cant.</hi> 1.8. <hi>to go by the footſteps of the Flock, and by the Shep<g ref="char:EOLhyphen"/>herds
+<pb n="35" facs="tcp:46565:20" rendition="simple:additions"/>Tents.</hi> Certainly the ſincere Chriſtian may here give in his Plea to God, ſo as to be ac<g ref="char:EOLhyphen"/>cepted, if he can ſay, <hi>Lord, thou knoweſt the ſince<g ref="char:EOLhyphen"/>rity of my Heart; I would not do any thing I know ſinful, upon the greateſt temptation in the World: I am one under Authority, and ſo obliged to obey it in the Lord. That requires ſome things now of me, I have Scruples about, whether they be lawful or not. Did I know them certainly to be evil, I would not do them, whatever I ſuffered: But I cannot conclude that certainly they are ſinful. Thou haſt ſet them to rule and guide me; I ſhall follow their Conduct, till I be ſure they miſlead me; and when I perceive they do ſo, I am reſolved to deſert them, and to do whatever thou commandeſt me: And in thus doing, ſhew Mercy to me according to the Integrity of my Heart.</hi> Certain<g ref="char:EOLhyphen"/>ly ſuch an one ſhall not be condemned of the good and gracious God. This I have ſpoken, and now written, to promote Subjection and Obedience to Magiſtrates, as my Text com<g ref="char:EOLhyphen"/>mands me: <hi>Put them in mind to be ſubject to Principalities and Powers, and to obey Magiſtrates.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
